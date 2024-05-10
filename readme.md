@@ -25,7 +25,7 @@ STEPS ARE AS FOLLOW
 7. `once that has been done successfully, you will see a page like this`
 ![img](/img/Screenshot%20(117).PNG)
 8.`click on the folder and open it`
-![img](/img/Screenshot%20(118).PNG)
+![alt text](<img/Screenshot (118).PNG>)
 9. `once it is open, we want to move the contents of the folder into the root directory of the bucket, and we would do that by selecting all the objects in the folder`
 ![img](/img/Screenshot%20(119).PNG)
 10. `after selecting all the objects, we would now click on action, then select move`
