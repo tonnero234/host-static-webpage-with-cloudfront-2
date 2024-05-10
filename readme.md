@@ -21,7 +21,7 @@ STEPS ARE AS FOLLOW
 5. `click on the bucket and open it`
 ![img](/img/Screenshot%20(115).PNG)
 6. `click on add folder to upload the objects you want to render as a static webpage`
-![img](./Screenshot%20(116).PNG)
+![alt text](<img/Screenshot (116).PNG>)
 7. `once that has been done successfully, you will see a page like this`
 ![img](/img/Screenshot%20(117).PNG)
 8.`click on the folder and open it`
@@ -33,7 +33,7 @@ STEPS ARE AS FOLLOW
 11. `next step is to select where we want to move our objects to, click on the browse s3, it will prompt you to select the s3 bucket name, then scroll down and select destination`
 ![img](/img/Screenshot%20(121).PNG)
 12. `after you must have clicked on the bucket name, click on choose destination`
-![img](/img/Screenshot%20(122).PNG)
+![alt text](<img/Screenshot (122).PNG>)
 13. `after you choose destination, scroll down and click on move`
 ![img](./Screenshot%20(124).PNG)
 14. `once it is successful, you will see a screen like this`
@@ -62,7 +62,7 @@ STEPS ARE AS FOLLOW
 21. `so the next step now is to go create our cloudfront, we would do that by searching for cloudfront, select it`
 ![img](/img/Screenshot%20(144).PNG)
 22. `it will take you to this page, click on create a cloud front distribution`
-![img](/img/Screenshot%20(145).PNG)
+![alt text](<img/Screenshot (145).PNG>)
 23. `then click on the origin domain, it will automatically list the services you want to use, select the s3 bucket name that is there, then make sure you click that use website endpoint, after that scroll down, you can either enable or disable your firewall, there is also a tab to add your custom domain if you have any, but since we dont have, we would leave our as the default, then scroll down and click on create distribution`
 ![img](/img/Screenshot%20(146).PNG)
 ![img](/img/Screenshot%20(147).PNG)
