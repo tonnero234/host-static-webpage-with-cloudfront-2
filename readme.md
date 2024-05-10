@@ -11,9 +11,9 @@
 STEPS ARE AS FOLLOW
 
 1. `After you must have logged into your aws account, search for s3 as you can see from the image below`
-![login](img/login.PNG)
+![alt text](img/login.PNG)
 2. `click on create bucket as you can see from the image below`
-![img](<img/Screenshot (111).PNG>)
+![alt text](<img/Screenshot (111).PNG>)
 3. `then fill up the informations that are required as shown below and click on create bucket`
 ![img](/img/Screenshot%20(112).PNG)
 4. `After it must have been created successfully, it will take you to this page, where you can see your bucket`
