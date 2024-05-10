@@ -35,7 +35,7 @@ STEPS ARE AS FOLLOW
 12. `after you must have clicked on the bucket name, click on choose destination`
 ![alt text](<img/Screenshot (122).PNG>)
 13. `after you choose destination, scroll down and click on move`
-![img](./Screenshot%20(124).PNG)
+![alt text](<img/Screenshot (124).PNG>)
 14. `once it is successful, you will see a screen like this`
 ![img](/img/Screenshot%20(125).PNG)
 15. `so if you click on your bucket name now, you will that all your objects are residing in the root directory of your bucket now`
